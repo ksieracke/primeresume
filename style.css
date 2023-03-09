@@ -1,0 +1,17 @@
+html{
+  background-color: rgba(0,35,102,.4);
+  margin: 1em;
+}
+.date{
+  font-style:italic;
+}
+p,h1,h3,h4,h5{
+  margin: 0;
+}
+
+.place{
+  text-decoration: underline;
+}
+.contact{
+  text-align: center;
+}
